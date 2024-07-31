@@ -1,0 +1,91 @@
+[
+    {
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "añoFabricacion": 2021,
+        "color": "Negro",
+        "pesoKg": 15,
+        "tipo": "Montañera",
+        "precio": 1200,
+        "vendida": "no"
+      },
+      {
+        "marca": "Shifter",
+        "modelo": "FM18F29AM210",
+        "rodado": 28,
+        "añoFabricacion": 2020,
+        "color": "Rojo",
+        "pesoKg": 14,
+        "tipo": "Paseo",
+        "precio": 1000,
+        "vendida": "si"
+      },
+      {
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 26,
+        "añoFabricacion": 2022,
+        "color": "Azul",
+        "pesoKg": 13,
+        "tipo": "Retro",
+        "precio": 900,
+        "vendida": "no"
+      },
+      {
+        "marca": "Battle",
+        "modelo": "Sunshine",
+        "rodado": 29,
+        "añoFabricacion": 2019,
+        "color": "Verde",
+        "pesoKg": 16,
+        "tipo": "Triatlón",
+        "precio": 1500,
+        "vendida": "si"
+      },
+      {
+        "marca": "TopMega",
+        "modelo": "Techno",
+        "rodado": 28,
+        "añoFabricacion": 2020,
+        "color": "Gris",
+        "pesoKg": 17,
+        "tipo": "Montañera",
+        "precio": 1100,
+        "vendida": "no"
+      },
+      {
+        "marca": "SLP",
+        "modelo": "Ruta",
+        "rodado": 26,
+        "añoFabricacion": 2021,
+        "color": "Amarillo",
+        "pesoKg": 15,
+        "tipo": "Paseo",
+        "precio": 950,
+        "vendida": "no"
+      },
+      {
+        "marca": "Halley",
+        "modelo": "Techno",
+        "rodado": 29,
+        "añoFabricacion": 2022,
+        "color": "Celeste",
+        "pesoKg": 14,
+        "tipo": "Retro",
+        "precio": 1050,
+        "vendida": "si"
+      },
+      {
+        "marca": "Fixie",
+        "modelo": "Regal",
+        "rodado": 16,
+        "añoFabricacion": 2020,
+        "color": "Rosa",
+        "pesoKg": 13,
+        "tipo": "Triatlón",
+        "precio": 1300,
+        "vendida": "no"
+      }
+  ]
+  
